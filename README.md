@@ -7,9 +7,13 @@ Thank you for reviewing this simple bit of code that I recently submitted as par
 
 ### Structure of Pyramid:
 [1]
+
 [2,3]
+
 [4,5,6]
+
 [7,8,9,10] 
+
 ...
 
 ### Format of Text File to Decode:
