@@ -18,15 +18,25 @@ Thank you for reviewing this simple bit of code that I recently submitted as par
 
 ### Format of Text File to Decode:
 1 top
+
 2 of
+
 3 secret
+
 4 power
+
 5 excite
+
 6 message
+
 7 dog
+
 8 opposite
+
 9 oxygen
+
 10 whole
+
 ...
 
 ### Output
