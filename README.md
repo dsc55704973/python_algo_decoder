@@ -58,6 +58,9 @@ The file provided is a text file (.txt), comprised of two columns: an integer co
 
 
 #### Step 2: BUILD THE PYRAMID
+The key methodology for decoding the file is to arrage it as a pyramid, where every layer of the pyramid adds another value to the end of the sequence, such that Layer 1 = [1], Layer 2 = [2,3], Layer 3 = [4,5,6], etc.  Accordingly, the last value of every level on the top three levels (that is, indices 1, 3, and 6) represent three words that form the message we are trying to decode.  To execute, we simply need to arrage these values into a list of lists, with each inner-list representing a layer of the pyramid.
+
+<img width="1076" alt="Screenshot 2024-04-15 at 12 15 08 AM" src="https://github.com/dsc55704973/python_algo_decoder/assets/66639071/7dba21c0-f42a-407e-9fd4-fcef68a5277c">
 
 
 #### Step 3: DECODE THE MESSAGE ('TOP SECRET MESSAGE')
