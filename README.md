@@ -64,6 +64,14 @@ The key methodology for decoding the file is to arrage it as a pyramid, where ev
 
 
 #### Step 3: DECODE THE MESSAGE ('TOP SECRET MESSAGE')
+The final step is to iterate through the indices we've set as the encoded message (1,3,6) with for loop and return the corresponding strings.  All there is left to do now is return the pyramid and decoeded message.
+
+<img width="1069" alt="Screenshot 2024-04-15 at 12 15 52 AM" src="https://github.com/dsc55704973/python_algo_decoder/assets/66639071/81aa9f9b-fb4c-425a-8ed3-aa4371dfa73e">
+
+#### RETURN THE PYRAMID & THE DECODED MESSAGE
+After performing the function on the text file, we return a pyramid-structured list, as well as the final decoded message ("top secret message").
+
+<img width="1184" alt="Screenshot 2024-04-15 at 12 38 57 AM" src="https://github.com/dsc55704973/python_algo_decoder/assets/66639071/96b218c5-ab14-44d8-93b6-0a98be699c76">
 
 
 
