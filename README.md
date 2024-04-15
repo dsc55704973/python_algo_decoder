@@ -52,7 +52,7 @@ Thank you for reviewing this simple bit of code that I recently submitted as par
 The steps taken to leverage python to execute the decodification of this message are as follows:
 
 #### Step 1: TXT OBJECT CONVERSION
-The file provided is a text file (.txt), comprised of two columns: an integer column (leftmost column) and a string (rightmost column).  Since all colummns within a .txt file are rendered as strings, we must first convert the leftmost column representing integer-based coding to...integer values; likewise, we must ensure that we preserve the corresponding code values in the rightmost column as strings.  To accomplish this, we may use a combination of simple logic, nested loops, and the split().split() method to tell our function to read the left column as integers and the right column as strings values, with which we may proceed to execute the program.
+The file provided is a text file (.txt), comprised of two columns: an integer column (leftmost column) and a string (rightmost column).  Since all columns within a .txt file are rendered as strings, we must first convert the leftmost column representing integer-based coding to...integer values; likewise, we must ensure that we preserve the corresponding code values in the rightmost column as strings.  To accomplish this, we may use a combination of simple logic, nested loops, and the split().split() method to tell our function to read the left column as integers and the right column as strings values, with which we may proceed to execute the program.
 
 <img width="839" alt="Screenshot 2024-04-15 at 12 14 02 AM" src="https://github.com/dsc55704973/python_algo_decoder/assets/66639071/fc408f5c-dd01-475d-a6ce-1c2d3d32a305">
 
